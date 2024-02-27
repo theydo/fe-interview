@@ -9,8 +9,8 @@ module.exports = {
     "plugin:vue/vue3-recommended",
     "eslint:recommended",
     "@vue/typescript/recommended",
-    "@vue/prettier",
-    "@vue/prettier/@typescript-eslint",
+    // "@vue/prettier",
+    // "@vue/prettier/@typescript-eslint",
   ],
   parserOptions: {
     ecmaVersion: 2021,
@@ -24,6 +24,6 @@ module.exports = {
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-unused-vars": ["off", { argsIgnorePattern: "^_" }],
-    "prettier/prettier": ["error", {}, { usePrettierrc: true }],
+    // "prettier/prettier": ["error", {}, { usePrettierrc: true }],
   },
 };
