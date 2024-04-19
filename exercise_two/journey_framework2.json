@@ -1,5 +1,5 @@
 {
-    "typename": "JourneyFramework",
+    "__typename": "JourneyFramework",
     "id": "1dfa868d-524c-442e-856f-f035175fed20",
     "title": "Domain Framework",
     "journeyBoards": [
