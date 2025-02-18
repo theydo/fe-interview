@@ -5,7 +5,7 @@
   "description": "Simple starter template for developing Vue 3 app with some often used features",
   "scripts": {
     "dev": "vite",
-    "unique": "node ./exercise_two/index.ts"
+    "two": "node ./exercise_two/index.ts"
   },
   "dependencies": {
     "lodash": "^4.17.21",
