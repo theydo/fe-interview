@@ -1,5 +1,5 @@
 # TheyDo - Frontend Interview
-# <img src="https://www.theydo.com/theydo.logo.gradient.svg" width="340" />
+<img src="https://github.com/user-attachments/assets/a109a1f5-0272-41b9-94e6-f3a78c2ddba3" alt="drawing" width="200"/>
 
 ## Getting Started
 Hello, please set up this repository ahead of our interview.
